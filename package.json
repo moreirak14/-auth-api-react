@@ -1,0 +1,20 @@
+{
+  "name": "auth-api-react",
+  "version": "1.0.0",
+  "description": "JWT Authentication with Django + React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moreirak14/auth-api-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moreirak14/auth-api-react/issues"
+  },
+  "homepage": "https://github.com/moreirak14/auth-api-react#readme"
+}
